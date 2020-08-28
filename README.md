@@ -24,6 +24,7 @@ In order to speed up this process for others, I have:
 2. Analyzed every single question in CTCI and EPI.
 3. Identified every core concept, every nuance, and every technicality of every category of questions from Strings to Dynamic Programming.
 4. Created the minimum set of questions that capture the totality of nuance for every Category of Questions.
+5. Provided a free online coding environment for you to easily write code and run tests online.
 
 ## So now, you can Master the coding interview by
 
