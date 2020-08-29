@@ -10,7 +10,7 @@ Given a string s containing:
 
 ## Your task
 
-Remove the minimum number of parentheses so that the resulting parenthesis string is valid 
+Remove the minimum number of parentheses so that the resulting parenthesis string is valid
 
 ## Output
 
@@ -20,29 +20,30 @@ A parentheses string is valid if:
 
 - It is the empty string
 - It contains only lowercase characters
-- It can be written as (A), where A is a valid string
+- Every open parenthesis `'('` has a closing parentheis `')'` after it AND every closing parenthesis `')'` has an opening parenthesis `'('` before it
 
 ## Example 1
 
-1. Input: s = "lee(t(c)o)de)"
-2. Output: "lee(t(c)o)de"
-3. Explanation: "lee(t(co)de)" , "lee(t(c)ode)" would also be accepted.
+1. Input: s = "y(e(e(h))a)w)"
+2. Output: "y(e(e(h))a)w"
+3. Explanation: "y(e(e(h)a)w)" , "y(e(e(h))aw)" would also be accepted.
 
 ## Example 2
 
-1. Input: s = "a)b(c)d"
-2. Output: "ab(c)d"
+1. Input: s = ")ca(5)h"
+2. Output: "ca(5)h"
 
 ## Example 3
 
-1. Input: s = "))(("
+1. Input: s = ")))))(("
 2. Output: ""
-3. Explanation: An empty string is also valid.
+3. Explanation: An empty string is valid.
 
 ## Example 4
 
-1. Input: s = "(a(b(c)d)"
-2. Output: "a(b(c)d)"
+1. Input: s = "(c(o(D)3)"
+2. Output: "c(o(D)3)"
+3. Explanation: "(co(D)3)" , ""(c(oD)3)" would also be accepted.
 
 ## Constraints
 
