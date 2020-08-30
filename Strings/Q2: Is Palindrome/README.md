@@ -34,5 +34,5 @@ Return a boolean value. An empty string is a valid palindrome.
 
 ## Constraints
 
-1. 1 <= s.length <= 100
+1. 1 <= s.length <= 10^5
 2. s[i] may contain any Unicode character.
