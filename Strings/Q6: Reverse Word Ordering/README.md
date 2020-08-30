@@ -35,5 +35,5 @@ Return a string.
 
 ## Constraints
 
-1. 1 <= s.length <= 100
+1. 1 <= s.length <= 10^5
 2. s[i] may contain any alphanumeric characters or whitespace.

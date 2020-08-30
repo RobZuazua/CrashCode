@@ -28,6 +28,6 @@ Return the size of the smallest window. There may be more than 1 window with the
 
 ## Constraints
 
-1. 1 <= s.length <= 100
-2. 1 <= t.length <= 100
+1. 1 <= s.length <= 10^5
+2. 1 <= t.length <= 10^5
 3. s[i] and t[i] may contain any ASCII character.

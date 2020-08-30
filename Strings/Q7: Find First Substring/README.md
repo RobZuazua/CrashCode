@@ -28,5 +28,5 @@ Return an integer representing the position of the first occurence of the substr
 
 ## Constraints
 
-1. 1 <= s.length <= t.length <= 100
+1. 1 <= s.length <= t.length <= 10^5
 2. s[i] and t[i] may contain any ASCII character.
