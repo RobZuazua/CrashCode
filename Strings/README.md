@@ -41,7 +41,7 @@ However, I can share a chart of my analysis on the nuance and techniques taught 
 
 ## Conclusion
 
-From these resources, we can compose a list of all the core concepts and nuance that one would need to understand in order to solve any question around Strings.
+From these resources, we can compose a list of all the core concepts and common nuance that one would need to understand in order to master questions around Strings.
 
 1. `two scan`
 2. `two pointer`
