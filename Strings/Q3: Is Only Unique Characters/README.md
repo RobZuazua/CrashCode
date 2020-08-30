@@ -12,7 +12,7 @@ Determine if the string contains all unique characters. This function is case se
 
 ## Output
 
-Return a boolean value.
+Return a boolean value. An empty string should return `true`.
 
 ## Example 1
 

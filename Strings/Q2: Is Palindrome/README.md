@@ -12,7 +12,7 @@ Determine if the string reads the same forwards and backwards after you remove a
 
 ## Output
 
-Return a boolean value.
+Return a boolean value. An empty string is a valid palindrome.
 
 ## Example 1
 
