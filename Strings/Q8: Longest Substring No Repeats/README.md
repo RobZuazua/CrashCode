@@ -14,8 +14,6 @@ Determine the length of the longest substring without any repeating characters.
 
 Return the length of the longest substring without any repeating characters.
 
-A parentheses string is valid if:
-
 ## Example 1
 
 1. Input: s = `"aabcc"`
