@@ -1,12 +1,28 @@
-/** 
- * Please See Description for instructions on how to implement this method
-*/
+import java.util.HashSet;
+import java.util.Set;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
+
 public class MakeParenthesisValid
 {
-	public static void main(final String[] args) {
-		System.out.println("Hello World!");
+	public static void main(String[] args) {
+        // Change these values to manually test your program
+		final String input = "y(e(e(h))a)w)";
+		final Set<String> acceptedResponses = Stream.of("y(e(e(h))a)w", "y(e(e(h)a)w)", "y(e(e(h))aw)")
+  			.collect(Collectors.toCollection(HashSet::new));
+        final String actualResponse = makeParenthesisValid(input);
 
-		
-		System.out.println("break");
-	}
+        LogUtil.logResults(acceptedResponses, actualResponse);
+    }
+
+    /**
+     * Write your code here 
+     * 
+     * Remove the minimum number of parentheses so that the resulting parenthesis string is valid (See README for details) 
+     * @param s - input string containing ASCII characters
+     * @return - ***any*** valid string. There may be more than 1 solution.
+     */
+    public static String makeParenthesisValid(String s) {
+        return s;
+    }
 }
