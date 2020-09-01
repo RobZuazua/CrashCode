@@ -1,11 +1,14 @@
+package category_strings.q11_string_compression;
+import utils.*;
+
 public class StringCompression {
-    public static void main(String[] args) {
+    public static void test() {
         // Change these values to manually test your program
         final String input = "abccddeeeee";
         final String expectedResponse = "a1b1c2d2e5";
         final String actualResponse = compressString(input);
 
-        LogUtil.logResults(expectedResponse, actualResponse);
+        LogUtil.logResults("11: String Compression", expectedResponse, actualResponse);
     }
 
     /**

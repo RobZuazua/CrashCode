@@ -1,11 +1,14 @@
+package category_strings.q8_longest_substring_no_repeats;
+import utils.*;
+
 public class LongestSubstringNoRepeats {
-    public static void main(String[] args) {
+    public static void test() {
         // Change these values to manually test your program
         final String input = "aabcc";
         final int expectedResponse = 3;
         final int actualResponse = longestSubstringNoRepeats(input);
 
-        LogUtil.logResults(expectedResponse, actualResponse);
+        LogUtil.logResults("8: Longest Substring No Repeats", expectedResponse, actualResponse);
     }
 
     /**

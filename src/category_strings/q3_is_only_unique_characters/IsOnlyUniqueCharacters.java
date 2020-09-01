@@ -1,11 +1,14 @@
+package category_strings.q3_is_only_unique_characters;
+import utils.*;
+
 public class IsOnlyUniqueCharacters {
-    public static void main(String[] args) {
+    public static void test() {
         // Change these values to manually test your program
         final String input = "Cattywampus";
         final boolean expectedResponse = false;
         final boolean actualResponse = isOnlyUniqueCharacters(input);
 
-        LogUtil.logResults(expectedResponse, actualResponse);
+        LogUtil.logResults("3: Is Only Unique Characters", expectedResponse, actualResponse);
     }
 
     /**

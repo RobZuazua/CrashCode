@@ -1,12 +1,15 @@
+package category_strings.q5_is_permutation;
+import utils.*;
+
 public class IsPermutation {
-    public static void main(String[] args) {
+    public static void test() {
         // Change these values to manually test your program
         final String input1 = "Avery likes Shaun";
         final String input2 = "shaun likes avery";
         final boolean expectedResponse = true;
         final boolean actualResponse = isPermutation(input1, input2);
 
-        LogUtil.logResults(expectedResponse, actualResponse);
+        LogUtil.logResults("5: Is Permutation", expectedResponse, actualResponse);
     }
 
     /**

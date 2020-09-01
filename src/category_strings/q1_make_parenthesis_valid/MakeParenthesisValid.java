@@ -1,18 +1,21 @@
+package category_strings.q1_make_parenthesis_valid;
+
 import java.util.HashSet;
 import java.util.Set;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
+import utils.*;
 
 public class MakeParenthesisValid
 {
-	public static void main(String[] args) {
+	public static void test() {
         // Change these values to manually test your program
 		final String input = "y(e(e(h))a)w)";
 		final Set<String> acceptedResponses = Stream.of("y(e(e(h))a)w", "y(e(e(h)a)w)", "y(e(e(h))aw)")
   			.collect(Collectors.toCollection(HashSet::new));
         final String actualResponse = makeParenthesisValid(input);
 
-        LogUtil.logResults(acceptedResponses, actualResponse);
+        LogUtil.logResults("1: Make Parenthesis Valid", acceptedResponses, actualResponse);
     }
 
     /**

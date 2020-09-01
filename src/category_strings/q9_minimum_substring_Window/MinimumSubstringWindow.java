@@ -1,12 +1,15 @@
+package category_strings.q9_minimum_substring_Window;
+import utils.*;
+
 public class MinimumSubstringWindow {
-    public static void main(String[] args) {
+    public static void test() {
         // Change these values to manually test your program
         final String input1 = "readingrocks";
         final String input2 = "dog";
         final int expectedResponse = 6;
         final int actualResponse = minimumSubstringWindow(input1, input2);
 
-        LogUtil.logResults(expectedResponse, actualResponse);
+        LogUtil.logResults("9: Minimum Substring Window", expectedResponse, actualResponse);
     }
 
     /**

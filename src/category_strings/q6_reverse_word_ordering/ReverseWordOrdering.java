@@ -1,11 +1,14 @@
+package category_strings.q6_reverse_word_ordering;
+import utils.*;
+
 public class ReverseWordOrdering {
-    public static void main(String[] args) {
+    public static void test() {
         // Change these values to manually test your program
         final String input = "rob likes code";
         final String expectedResponse = "code likes rob";
         final String actualResponse = reverseWordOrdering(input);
 
-        LogUtil.logResults(expectedResponse, actualResponse);
+        LogUtil.logResults("6: Reverse Word Ordering", expectedResponse, actualResponse);
     }
 
     /**

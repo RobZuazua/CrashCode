@@ -1,11 +1,14 @@
+package category_strings.q4_is_palindrome_permutation;
+import utils.*;
+
 public class IsPalindromePermutation {
-    public static void main(String[] args) {
+    public static void test() {
         // Change these values to manually test your program
         final String input = "Car e car";
         final boolean expectedResponse = true;
         final boolean actualResponse = isPalindromePermutation(input);
 
-        LogUtil.logResults(expectedResponse, actualResponse);
+        LogUtil.logResults("4: Is Palindrome Permutation", expectedResponse, actualResponse);
     }
 
     /**

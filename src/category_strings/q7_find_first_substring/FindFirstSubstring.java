@@ -1,14 +1,16 @@
+package category_strings.q7_find_first_substring;
+import utils.*;
+
 public class FindFirstSubstring {
-    public static void main(String[] args) {
-        // Change these values to manually test your program
+
+    public static void test() {
         final String input1 = "dog";
         final String input2 = "a cat and dog ran through the yard chasing a dog";
         final int expectedResponse = 10;
         final int actualResponse = findFirstSubstring(input1, input2);
 
-        LogUtil.logResults(expectedResponse, actualResponse);
+        LogUtil.logResults("7: Find First Substring", expectedResponse, actualResponse);
     }
-
     /**
      * Write your code here 
      * 

@@ -1,11 +1,14 @@
+package category_strings.q2_is_palindrome;
+import utils.*;
+
 public class IsPalindrome {
-    public static void main(String[] args) {
+    public static void test() {
         // Change these values to manually test your program
         final String input = "a, ka, ya-k..a";
         final boolean expectedResponse = true;
         final boolean actualResponse = isPalindrome(input);
 
-        LogUtil.logResults(expectedResponse, actualResponse);
+        LogUtil.logResults("2: Is Palindrome", expectedResponse, actualResponse);
     }
 
     /**

@@ -1,11 +1,14 @@
+package category_strings.q10_roman_to_decimal;
+import utils.*;
+
 public class RomanToDecimal {
-    public static void main(String[] args) {
+    public static void test() {
         // Change these values to manually test your program
         final String input = "II";
         final int expectedResponse = 2;
         final int actualResponse = romanToInt(input);
 
-        LogUtil.logResults(expectedResponse, actualResponse);
+        LogUtil.logResults("10: Roman to Decimal", expectedResponse, actualResponse);
     }
 
     /**
