@@ -12,6 +12,7 @@ import category_strings.q9_minimum_substring_Window.*;
 
 public class App {
     public static void main(final String[] args) {
+        // Strings Questions
         MakeParenthesisValid.test();
         IsPalindrome.test();
         IsOnlyUniqueCharacters.test();
