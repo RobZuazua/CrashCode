@@ -63,3 +63,11 @@ I have compiled a list and will go over these in detail in one of my videos!
 2. `Character Class`
 3. `String Class`
 4. `ASCII vs Unicode`
+
+## Next Steps
+
+I have created and shared the minimum set of questions in this folder that capture all above techniques with strings! 
+
+The questions are available in the three most popular programming languages for interviews: python, java, and javascript.
+
+I have also shared a free online coding environment for you to test your changes! https://gitpod.io/#https://github.com/RobZuazua/CrashCode/tree/master/src
