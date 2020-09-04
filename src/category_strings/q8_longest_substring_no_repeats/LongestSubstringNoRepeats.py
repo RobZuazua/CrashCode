@@ -6,7 +6,7 @@ class LongestSubstringNoRepeats:
     # Determine the length of the longest substring without any repeating characters.
     # See README for details
     # @param s - input string with any ASCII characters 
-    # @return - ength of longest substring without any repeating characters
+    # @return - length of longest substring without any repeating characters
     def longest_substring_no_repeats(self, s: str) -> str:
             return 10;
 

@@ -7,7 +7,7 @@ class RomanToDecimal:
     # See README for details
     # @param s - represents a Roman Numeral 
     # @return - the int number represented by the Roman Numeral
-    def roman_to_decimal(self, s: str) -> str:
+    def roman_to_decimal(self, s: str) -> int:
             return 2;
 
     def test(self):
