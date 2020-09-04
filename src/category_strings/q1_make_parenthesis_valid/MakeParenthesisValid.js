@@ -1,4 +1,3 @@
-//from utils.LogUtil import LogUtil;
 const LogUtil = require('../../utils/LogUtil.js');
 
 /**
@@ -13,10 +12,10 @@ var makeParenthesisValid = function(s) {
 
 var test = function() {
     // Change these values to manually test your program
-    let str_input = "y(e(e(h))a)w)";
-    let accepted_responses = ["y(e(e(h))a)w", "y(e(e(h)a)w)", "y(e(e(h))aw)"]
-    let actual_response = makeParenthesisValid(str_input);
-    new LogUtil().logResultsSet("1: Make Parenthesis Valid", accepted_responses, actual_response);
+    let strInput = "y(e(e(h))a)w)";
+    let acceptedResponses = ["y(e(e(h))a)w", "y(e(e(h)a)w)", "y(e(e(h))aw)"]
+    let actualResponse = makeParenthesisValid(strInput);
+    new LogUtil().logResultsSet("1: Make Parenthesis Valid", acceptedResponses, actualResponse);
 }
 
 module.exports = test;

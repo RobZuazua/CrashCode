@@ -15,4 +15,4 @@ class ReverseWordOrdering:
         str_input = "rob likes code";
         accepted_response = "code likes rob"
         actual_response = self.reverse_word_ordering(str_input);
-        LogUtil().log_results_bool("6: Reverse Word Ordering", accepted_response, actual_response);
+        LogUtil().log_results("6: Reverse Word Ordering", accepted_response, actual_response);
