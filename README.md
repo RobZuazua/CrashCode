@@ -12,9 +12,11 @@ With Understanding. Intutive understanding trumps practice.
 
 My role is to identify everything we need to understand in order to master the coding interview, and provide a light guiding hand.
 
-1. I have coded the minimum set of questions that capture the totality of common concept, technique, and nuance for every category of questions from Strings to Dynamic Programming. (See category READMEs for analysis on every single question in CTCI, EPI, and top 200 Leetcode)
+1. I am analyzing every question in CTCI, EPI, top 100 Leetcode, and hundreds on glassdoor
 
-2. I have committed at least 30 minutes of every week day to live office hours for chatting or diving deeper into concepts 
+2. I have coded the minimum set of questions that capture the totality of common concept, technique, and nuance for every category of questions from Strings to Dynamic Programming.
+
+3. I have committed at least 30 minutes of every weekday to live office hours for chatting or diving deeper into concepts 
 
 
 ### Media Links
