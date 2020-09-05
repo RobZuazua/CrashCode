@@ -1,14 +1,10 @@
-# Master the Technical Interview
+I built Crash Code to inspire all of us to master the technical coding interview.
 
-I made Crash Code to inspire engineers of all backgrounds to master the technical coding interview.
+Why? Because the coding interview is often a hurdle that holds us back from reaching our ultimate potential.
 
-Mastering the interview transforms your life. New opportunities, new coworkers, new friends, and new possibilities.
+Once we have mastered it, we gain new possibilities.
 
-The truth is simple. To master anything, ***Intuitive understanding > practice***.
-
-### Training 
-
-My passion is to inspire. To show you what it is possible for yourself. To be a friend through your journey. 
+###  Training
 
 1. I have identified every core concept, common nuance & technicality of every category of questions. (See the data in each category's README)
 
