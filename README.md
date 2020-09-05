@@ -4,13 +4,13 @@ I made Crash Code to inspire engineers of all backgrounds to master the technica
 
 The truth is simple. ***Intuitive understanding > practice***.
 
-## Open Doors in Your Life
+### Open Doors in Your Life
 
 Traditional coding interviews remain a major part of evaluation for most companies.
 
 Mastering the technical coding interview transforms your life. New opportunities, new coworkers, new friends, new possibilities.
 
-## Training 
+### Training 
 
 My passion is to inspire you. To show you it is possible. To be your friend through it. 
 
@@ -20,7 +20,7 @@ My passion is to inspire you. To show you it is possible. To be your friend thro
 
 3. I have daily office hours for chatting or answering any questions: https://discord.gg/e56GWrU
 
-## Media Links
+### Media Links
 
 1. Join our discord for FAQ and daily office hours from 7:30pm-8pm CST: https://discord.gg/e56GWrU
 2. Youtube: https://www.youtube.com/channel/UC4fdhO7egjaKfoJemwD2kIA
