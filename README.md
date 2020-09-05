@@ -12,7 +12,7 @@ My passion is to inspire. To show you what it is possible for yourself. To be a 
 
 1. I have identified every core concept, common nuance & technicality of every category of questions. (See the data in each category's README)
 
-2. I have created this REPO that contains the minimum set of questions that capture the totality of common nuance for every category of question. https://gitpod.io/#https://github.com/RobZuazua/CrashCode
+2. I have created this REPO that contains the minimum set of questions that capture the totality of common nuance for every category of question, and i have shared a 1-click coding environment for you to easily train: https://gitpod.io/#https://github.com/RobZuazua/CrashCode
 
 3. I have daily office hours for chatting or answering any questions: https://discord.gg/e56GWrU
 
