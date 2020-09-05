@@ -1,18 +1,14 @@
-# Mastering the Technical Interview
+# Master the Technical Interview
 
 I made Crash Code to inspire engineers of all backgrounds to master the technical coding interview.
 
-The truth is simple. ***Intuitive understanding > practice***
+The truth is simple. ***Intuitive understanding > practice***.
 
-## Endless Possibilities
+## Open Doors in Your Life
 
 Traditional coding interviews remain a major part of evaluation for most companies.
 
-Fortunately, there is but a limited amount of understanding required to pass basically every technical coding interview.
-
-Mastering the technical coding interview opens doors. New coworkers, new friends, new possibilities.
-
-What are you waiting for? 
+Mastering the technical coding interview can transform your life. New coworkers, new friends, new possibilities.
 
 ## Training 
 
