@@ -1,14 +1,14 @@
 from utils.LogUtil import LogUtil;
 
 class ReverseWordOrdering:
-    # Write your code here 
-    #
+
     # Reverse all the words such that the words appear in reverse order. Trim Whitespace.
     # See README for details
     # @param s - input string containing either alphnumeric characters and/or whitespace
     # @return - the words in reverse order
     def reverse_word_ordering(self, s: str) -> str:
-            return s;
+        # Write your code here
+        return s;
 
     def test(self):
         # Change these values to manually test your program

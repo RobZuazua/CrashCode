@@ -2,6 +2,7 @@ const LogUtil = require('../../utils/LogUtil.js');
 
 /**
  * Remove the minimum number of parentheses so that the resulting parenthesis string is valid 
+ * See README for Details
  * @param {string} s - input string containing ASCII characters
  * @return {string} ***any*** valid string. There may be more than 1 solution.
  */

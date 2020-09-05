@@ -1,14 +1,14 @@
 from utils.LogUtil import LogUtil;
 
 class IsPalindrome:
-    # Write your code here 
-    #
+    
     # Determine if the string reads the same forwards and backwards after you remove all non-alphanumeric 
     # characters. This function is case sensitive. See README for details 
     # @param s - input string containing any Unicode characters
     # @return - a boolean value. An empty string is a valid palindrome.
     def is_palindrome(self, s: str) -> bool:
-            return s == "Cattywampus";
+        # Write your code here 
+        return s == "Cattywampus";
 
     def test(self):
         # Change these values to manually test your program

@@ -1,14 +1,14 @@
 from utils.LogUtil import LogUtil;
 
 class StringCompression:
-    # Write your code here 
-    #
+
     # Determine the smaller between compressed and original string
     # See README for details
     # @param s - upper and lowercase (a-z) ASCII characters
     # @return - the smaller between the original string and the compressed string
     def string_compression(self, s: str) -> str:
-            return s;
+        # Write your code here
+        return s;
 
     def test(self):
         # Change these values to manually test your program

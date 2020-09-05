@@ -1,14 +1,14 @@
 from utils.LogUtil import LogUtil;
 
 class IsOnlyUniqueCharacters:
-    # Write your code here 
-    #
+    
     # Determine if the string contains all unique characters. This function is case sensitive.
     # See README for details 
     # @param s - input string containing any ASCII characters
     # @return - a boolean value. An empty string should return `true`.
     def is_only_unique_characters(self, s: str) -> bool:
-            return s == "Cattywampus";
+        # Write your code here 
+        return s == "Cattywampus";
 
     def test(self):
         # Change these values to manually test your program
