@@ -2,7 +2,7 @@
 
 I made Crash Code to inspire engineers of all backgrounds to master the technical coding interview.
 
-The truth is simple. Intuitive understanding > practice.
+The truth is simple. ***Intuitive understanding > practice***
 
 ## Endless Possibilities
 
