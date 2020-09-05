@@ -2,17 +2,13 @@
 
 I made Crash Code to inspire engineers of all backgrounds to master the technical coding interview.
 
-The truth is simple. ***Intuitive understanding > practice***.
+Mastering the interview transforms your life. New opportunities, new coworkers, new friends, and new possibilities.
 
-### Open Doors in Your Life
-
-Traditional coding interviews remain a major part of evaluation for most companies.
-
-Mastering the technical coding interview transforms your life. New opportunities, new coworkers, new friends, new possibilities.
+The truth is simple. To master anything, ***Intuitive understanding > practice***.
 
 ### Training 
 
-My passion is to inspire you. To show you it is possible. To be your friend through it. 
+My passion is to inspire. To show you what it is possible for yourself. To be a friend through your journey. 
 
 1. I have identified every core concept, common nuance & technicality of every category of questions. (See findings on each category README)
 
