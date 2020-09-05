@@ -10,7 +10,7 @@ Once we have mastered it, we gain new possibilities.
 
 With Understanding. Intutive understanding trumps practice.
 
-My role is to identify everything we need to understand in order to master the coding interview, and provide a light hand.
+My role is to identify everything we need to understand in order to master the coding interview, and provide a light guiding hand.
 
 1. I have coded the minimum set of questions that capture the totality of common concept, technique, and nuance for every category of questions from Strings to Dynamic Programming. 
 
