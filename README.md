@@ -8,7 +8,7 @@ The truth is simple. ***Intuitive understanding > practice***.
 
 Traditional coding interviews remain a major part of evaluation for most companies.
 
-Mastering the technical coding interview can transform your life. New coworkers, new friends, new possibilities.
+Mastering the technical coding interview transforms your life. New opportunities, new coworkers, new friends, new possibilities.
 
 ## Training 
 
