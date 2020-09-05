@@ -1,44 +1,32 @@
 # Mastering the Technical Interview
 
-## Why
+I made Crash Code to inspire engineers of all backgrounds to master the technical coding interview.
 
-There is a ***most effective*** way to train for coding interviews. 
+The truth is simple. Intuitive understanding > practice.
 
-Instead of "practice", seek complete ***understanding***.
+## Endless Possibilities
 
-I ask and refine: ***What must one do to master the technical coding interview in the quickest possible way without producing negative side effects like stress and anxiety?***.
+Traditional coding interviews remain a major part of evaluation for most companies.
 
-It is not about how many hours you put in. But it is about your depth of understanding.
+Fortunately, there is but a limited amount of understanding required to pass basically every technical coding interview.
 
-## How it Works
+Mastering the technical coding interview opens doors. New coworkers, new friends, new possibilities.
 
-To master the technical coding interview, one must:
+What are you waiting for? 
 
-1. Truly understand every concept around data structures and algorithms.
-2. Be exposed to all the nuance and technique around these data structures and algorithms.
-3. Be a proficient coder.
+## Training 
 
-In order to speed up this process for others, I have:
+My passion is to inspire you. To show you it is possible. To be your friend through it. 
 
-1. Analyzed over 200 interview questions on leetcode and glassdoor.
-2. Analyzed every single question in CTCI and EPI.
-3. Identified every core concept and common nuance / technicality of every category of questions from Strings to Dynamic Programming.
-4. Openly shared my findings.
-5. Created the minimum set of questions that capture the totality of common nuance for every Category of Questions.
-6. Provided a free online coding environment for you to easily write code and run tests online.
+1. I have identified every core concept, common nuance & technicality of every category of questions. (See findings on each category README)
 
-## So now, you can Master the coding interview by
+2. I have coded up and shared a free 1-click online coding environment that contains the minimum set of questions that capture the totality of common nuance for every category of questions. https://gitpod.io/#https://github.com/RobZuazua/CrashCode
 
-1. Completing the questions in this repository
+3. I have daily office hours for chatting or answering any questions: https://discord.gg/e56GWrU
 
-To do these questions online without a dev environment, simply use this online editor: https://gitpod.io/#https://github.com/RobZuazua/CrashCode
-
-If you get stuck:
+## Media Links
 
 1. Join our discord for FAQ and daily office hours from 7:30pm-8pm CST: https://discord.gg/e56GWrU
-2. Subscribe to our Youtube Channel for deep dives on every question: https://www.youtube.com/channel/UC4fdhO7egjaKfoJemwD2kIA
-
-Additionally:
-
-1. Subscribe to our mailing list for exclusive content: http://crashcode.training/
-2. Follow us on Twitter: https://twitter.com/CrashCodeTrain
+2. Youtube: https://www.youtube.com/channel/UC4fdhO7egjaKfoJemwD2kIA
+3. Subscribe to our mailing list for exclusive content: http://crashcode.training/
+4. Follow us on Twitter: https://twitter.com/CrashCodeTrain
