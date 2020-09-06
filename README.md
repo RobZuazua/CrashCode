@@ -2,9 +2,9 @@
 
 I built Crash Code to help us master the technical coding interview.
 
-Why? Because the coding interview blocks many of us from ever working on something we are passionate about.
+Why? Because the coding interview blocks many of us from ever working on something we are truly passionate about.
 
-Mastering the interview opens doors and has the ability to transform our lives.
+Mastering the technical interview opens doors and has the ability to transform our lives.
 
 ### I am inspired. How do I master the interview?
 
