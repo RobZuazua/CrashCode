@@ -20,13 +20,15 @@ I share the minimum set of questions that cover all the understanding one must a
 
 ### Why don't you share solutions?
 
-If you look at a solution to a question, you will never fully understand.
+If you look at a solution to a question, it is likely you will never fully understand.
 
-If you are stuck on a question, you must be gently guided to understanding. 
+I recommend going over all of the category concepts shared on my youtube https://www.youtube.com/channel/UC4fdhO7egjaKfoJemwD2kIA.
 
-Otherwise, you will sell yourself short. 
+Ask yourself: "Which technique applies to the current question?"
 
-I have daily office hours from 7:30pm-8pm CST: https://discord.gg/e56GWrU
+If you are genuinely stuck, you must be gently guided. 
+
+I have daily office hours from 7:30pm-8pm CST for any light guidance: https://discord.gg/e56GWrU
 
 ### Media Links
 
