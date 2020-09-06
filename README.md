@@ -1,12 +1,12 @@
-### Q: What is Crash Code and why did you create it?
+### What is Crash Code and why did you create it?
 
-I built Crash Code to inspire all of us to master the technical coding interview.
+I built Crash Code to help us master the technical coding interview.
 
-Why? Because the coding interview is often a hurdle that holds us back from reaching our ultimate potential.
+Why? Because the coding interview blocks many of us from ever working on something we are passionate about.
 
-Once we have mastered it, we gain new possibilities.
+Mastering the interview opens doors and has the ability to transform our lives.
 
-### Q: I am inspired. Now how do I master the interview?
+### I am inspired. Now how do I master the interview?
 
 With Understanding. Intutive understanding trumps practice.
 
