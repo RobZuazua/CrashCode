@@ -34,9 +34,7 @@ To master the coding interview, one must:
 
 ### Question: How do I most effectively understand these concepts?
 
-- To most effectively understand these concepts, you must use each of them to solve a problem entirely on your own.
-
-- In this repo, you have the minimum set of questions that cover all the concepts. Work through them without solutions.
+- To most effectively understand these concepts, you must use each of them to solve a problem entirely on your own without using a solution.
 
 - If you get stuck on any question for more than a few minutes, move on and come to my daily office hours where I will provide light guidance. 
 
