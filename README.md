@@ -6,17 +6,17 @@ Mastering the technical interview opens doors and has the ability to transform o
 
 ### Question: How do I master the technical interview?
 
-Sincerity, seriousness, and understanding. 
+Sincerity, seriousness, and understanding.
 
-Let me explain: You must genuinely want to master the interview and seek to understand what you must do in order to master it.
+### Question: I am serious and I genuinely seek to master the coding interview in order to open doors in my life. What must be understood?
 
-### Question: I sincerely and seriously want to understand how to master the technical interview. Do you have any insight on where to begin?
+To master the coding interview, one must:
 
-1. Intuitive understanding of the required concepts
+1. Intuitively understand the recurring concepts.
 
-2. Proficient coding ability
+2. Become a proficient coder.
 
-3. Perception training 
+3. Train your perceptions.
 
 ### Question: What are the required concepts and how do I most effectively understand them?
 
