@@ -1,22 +1,34 @@
 ### What is Crash Code and why did you create it?
 
-I built Crash Code to help us master the technical coding interview.
-
-Why? Because the coding interview blocks many of us from ever working on something we are truly passionate about.
+I built Crash Code to help us master the technical coding interview in the most effective way possible.
 
 Mastering the technical interview opens doors and has the ability to transform our lives.
 
-### I am inspired. How do I master the interview?
+### How do I master the technical interview?
 
-Intuitive understanding and perception training.
+1. Intuitive understanding of required concepts
 
-I share the minimum set of questions that cover all the understanding one must acquire to master the coding interview.
+2. Proficient coding ability
 
-1. I analyze every question in the top 4 code prep resources (CTCI, EPI, top 100 Leetcode, and hundreds in glassdoor.)
+3. Perception training 
 
-2. I create and share the minimum set of questions that capture the totality of common concept, technique, and nuance for every category of questions from Strings to Dynamic Programming based on my analysis.
+### What are the required concepts and how do I most effectively understand them?
 
-3. I commit at least 30 minutes of every weekday to live office hours for answering any questions. 
+I continuously analyze every question in the top 4 code prep resources (CTCI, EPI, top 100 Leetcode, and hundreds in glassdoor.)
+
+I share my analysis in this repo, ex: https://github.com/RobZuazua/CrashCode/blob/master/src/category_strings/README.md
+
+I create and share the minimum set of questions that capture the totality of common concept, technique, and nuance for every category of questions from Strings to Dynamic Programming based on my analysis.
+
+To most effectively understand all concepts, you must work through each question without using a single solution. If you get stuck for more than a few minutes, move on and come to my daily free and open office hours where I will lightly guide you. 
+
+Additionally you may use the question's hint to see the concept required to solve the question. Then you can watch one of my conceptual youtube videos linked to that concept in order to understand what you must do to solve the question.
+
+### How do I become a proficient coder?
+
+
+### What is perception training?
+
 
 ### Why don't you share solutions?
 
