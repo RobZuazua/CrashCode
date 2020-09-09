@@ -1,16 +1,16 @@
 ### Question: What is Crash Code?
 
-Crash Code is a training program to help us master the technical coding interview in the most effective way possible.
+Crash Code is a training program for mastering the technical coding interview in the most effective way possible.
 
 ### Question: Why did you build it?
 
-I built it because technical interview mastery creates opportunities that easily transform our lives.
+I built it to give you opportunity. Technical interview mastery creates opportunities that transform lives.
 
 ---
 
 ### Question: How do I master the technical interview?
 
-I speak honestly. There is no 5 step plan. It comes down to your level of sincerity, seriousness, and understanding.
+At the end of the day, it comes down to you. Your level of sincerity, seriousness, and understanding.
 
 ### Question: What must be understood?
 
