@@ -1,59 +1,42 @@
-### Question: What is Crash Code and why did you create it?
+### Question: What is Crash Code?
 
-I built Crash Code to help us master the technical coding interview in the most effective way possible.
+Crash Code is a training program to help us master the technical coding interview in the most effective way possible.
 
-Mastering the technical interview opens doors and has the ability to transform our lives.
+### Question: Why did you build it?
+
+I built it because technical interview mastery creates opportunities that easily transform our lives.
+
+---
 
 ### Question: How do I master the technical interview?
 
-Sincerity, seriousness, and understanding.
+I speak honestly. There is no 5 step plan. It comes down to your level of sincerity, seriousness, and understanding.
 
-### Question: I am serious and I genuinely seek to master the coding interview in order to open doors in my life. What must be understood?
+### Question: What must be understood?
 
 To master the coding interview, one must:
 
 1. Intuitively understand the recurring concepts.
 
-2. Become a proficient coder.
+2. Become a proficient coder. 
 
-3. Train your perceptions.
+3. Train your perceptions. (More on this later)
 
-### Question: What are the required concepts and how do I most effectively understand them?
+### Question: What are the required concepts
 
 I have been analyzing every question in the top 4 code prep resources (CTCI, EPI, top 100 Leetcode, and hundreds in glassdoor) and I have been sharing my analysis in this repo, ex: https://github.com/RobZuazua/CrashCode/blob/master/src/category_strings/README.md
 
 Based on this work, I have created and shared the minimum set of questions that capture the totality of common concept, technique, and nuance for every category of questions from Strings to Dynamic Programming.
 
---
+### Question: How do I most effectively understand these concepts?
 
-To most effectively understand every required concept, you must come to a working solution using every concept yourself.
+To most effectively understand these concepts, you must use each of them to solve a problem entirely on your own.
 
-In this repo, you have the minimum set of questions that cover all the concepts. Work through them.
+In this repo, you have the minimum set of questions that cover all the concepts. Work through them without solutions.
 
 If you get stuck on any question for more than a few minutes, move on and come to my daily office hours where I will provide light guidance. 
 
-Additionally each question has a hint that links the question to the concept. You may use the hint and watch the linked youtube video to intuitively understand the required concept. 
-
-### Question: How do I become a proficient coder?
-
-Exposure. Training. Understanding.
-
-You may use this repository's linked coding environment.
-
-### Question: What is perception training?
-
-
-### Question: Why don't you share solutions?
-
-If you look at a solution to a question, it is likely you will never fully understand.
-
-I recommend going over all of the category concepts shared on my youtube https://www.youtube.com/channel/UC4fdhO7egjaKfoJemwD2kIA.
-
-Ask yourself: "Which technique applies to the current question?"
-
-If you are genuinely stuck, you must be gently guided. 
-
-I have daily office hours from 7:30pm-8pm CST for any light guidance: https://discord.gg/e56GWrU
+Additionally each question has a hint that links the question to the concept. You may use the hint and watch the linked youtube video to gain understanding of the required concept. 
 
 ### Media Links
 
