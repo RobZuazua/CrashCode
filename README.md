@@ -8,7 +8,7 @@ I am building Crash Code to make devs more effective. Why grind through hundreds
 
 ---
 
-### Question: How do I master the technical interview?
+### Question: How can I master the technical interview?
 
 At the end of the day, it comes down to you. Your level of sincerity, seriousness, and understanding.
 
@@ -18,11 +18,11 @@ To master the coding interview, one must:
 
 1. Intuitively understand the recurring concepts.
 
-2. Become a proficient coder. 
+2. Be a proficient coder. 
 
 3. Train your perceptions. (More on this later)
 
-### Question: What are the required concepts
+### Question: What are the recurring concepts
 
 - I analayze every question in the top 4 code prep resources (CTCI, EPI, top 100 Leetcode, and glassdoor.) 
 
