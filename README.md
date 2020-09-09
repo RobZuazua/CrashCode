@@ -10,7 +10,7 @@ Sincerity, seriousness, and understanding.
 
 Let me explain: You must genuinely want to master the interview and seek to understand what you must do in order to master it.
 
-### I sincerely and seriously want to understand how to master the technical interview. Do you have any insight on where to begin?
+### Question: I sincerely and seriously want to understand how to master the technical interview. Do you have any insight on where to begin?
 
 1. Intuitive understanding of the required concepts
 
@@ -18,25 +18,32 @@ Let me explain: You must genuinely want to master the interview and seek to unde
 
 3. Perception training 
 
-### What are the required concepts and how do I most effectively understand them?
+### Question: What are the required concepts and how do I most effectively understand them?
 
-I continuously analyze every question in the top 4 code prep resources (CTCI, EPI, top 100 Leetcode, and hundreds in glassdoor.)
+I have been analyzing every question in the top 4 code prep resources (CTCI, EPI, top 100 Leetcode, and hundreds in glassdoor) and I have been sharing my analysis in this repo, ex: https://github.com/RobZuazua/CrashCode/blob/master/src/category_strings/README.md
 
-I share my analysis in this repo, ex: https://github.com/RobZuazua/CrashCode/blob/master/src/category_strings/README.md
+Based on this work, I have created and shared the minimum set of questions that capture the totality of common concept, technique, and nuance for every category of questions from Strings to Dynamic Programming.
 
-I create and share the minimum set of questions that capture the totality of common concept, technique, and nuance for every category of questions from Strings to Dynamic Programming based on my analysis.
+--
 
-To most effectively understand all concepts, you must work through each question without using a single solution. If you get stuck for more than a few minutes, move on and come to my daily free and open office hours where I will lightly guide you. 
+To most effectively understand every required concept, you must come to a working solution using every concept yourself.
 
-Additionally you may use the question's hint to see the concept required to solve the question. Then you can watch one of my conceptual youtube videos linked to that concept in order to understand what you must do to solve the question.
+In this repo, you have the minimum set of questions that cover all the concepts. Work through them.
 
-### How do I become a proficient coder?
+If you get stuck on any question for more than a few minutes, move on and come to my daily office hours where I will provide light guidance. 
+
+Additionally each question has a hint that links the question to the concept. You may use the hint and watch the linked youtube video to intuitively understand the required concept. 
+
+### Question: How do I become a proficient coder?
+
+Exposure. Training. Understanding.
+
+You may use this repository's linked coding environment.
+
+### Question: What is perception training?
 
 
-### What is perception training?
-
-
-### Why don't you share solutions?
+### Question: Why don't you share solutions?
 
 If you look at a solution to a question, it is likely you will never fully understand.
 
