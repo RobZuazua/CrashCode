@@ -38,6 +38,8 @@ If you get stuck on any question for more than a few minutes, move on and come t
 
 Additionally each question has a hint that links the question to the concept. You may use the hint and watch the linked youtube video to gain understanding of the required concept. 
 
+---
+
 ### Media Links
 
 1. 1-click coding environment for you to easily train: https://gitpod.io/#https://github.com/RobZuazua/CrashCode
