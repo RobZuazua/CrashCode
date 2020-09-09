@@ -4,7 +4,7 @@ Crash Code is a training program for mastering the technical coding interview in
 
 ### Question: Why did you build it?
 
-I built it to give you opportunity. Technical interview mastery creates opportunities that transform lives.
+I built it to create opportunity. Technical interview mastery creates opportunities that transform lives.
 
 ---
 
