@@ -4,7 +4,7 @@ Crash Code is a training program for mastering the technical coding interview in
 
 ### Question: Why did you build it?
 
-I built it to create opportunity. Technical interview mastery creates opportunities that transform lives.
+I am building Crash Code to make devs more effective. Why grind through hundreds of leetcode questions instead of identifying and intuitively understanding every required concept?
 
 ---
 
