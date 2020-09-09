@@ -30,7 +30,7 @@ To master the coding interview, one must:
 
 - I create the minimum set of questions that capture the totality of understanding. 
 
-- I share them freely and provide a coding environment https://gitpod.io/#https://github.com/RobZuazua/CrashCode.
+- I share them freely and provide an online coding environment https://gitpod.io/#https://github.com/RobZuazua/CrashCode.
 
 ### Question: How do I most effectively understand these concepts?
 
