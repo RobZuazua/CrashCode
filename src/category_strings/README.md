@@ -1,12 +1,6 @@
-# String Analysis
+# String Analysis from top 3 resources (CTCI, EPI, Leetcode)
 
-## Data from top 3 resources (CTCI, EPI, Leetcode)
-
-I cannot share the exact questions in each of these resources without infringing on their copyright.
-
-However, I can share a chart of my analysis on the nuance and techniques taught in these resources.
-
-***The nuance and technique around Strings***
+***Objective: Clearly identify the nuances and techniques with using Strings to solve interview questions***
 
 - CTCI Q1: `boolean array`
 - CTCI Q2: `pre-sort string`, `int array`
@@ -43,26 +37,26 @@ However, I can share a chart of my analysis on the nuance and techniques taught 
 
 From these resources, we can compose a list of all the core concepts and common nuance that one would need to understand in order to master questions around Strings.
 
-1. `two scan`
-2. `two pointer`
-3. `work backwards`
-4. `int array`
-5. `bool array`
-6. `bit vector`
-7. `pre-sort`
-8. `pre-reverse`
-9. `string builder`
-10. `double string`
-11. `linear time string matching`
+1. `Two Scan`
+2. `Two Pointer`
+3. `Work Backwards`
+4. `Pre-fixing`
+  - `pre-sort`
+  - `pre-reverse`
+  - `doubling string`
+5. `Arrays`
+  - `int array`
+  - `bool array`
+6. `Bit Vector`
+7. `Sliding Window`
+8. `Linear Time String Matching`
 
-Going one level deeper, what must one know in order to understand how to use the above techniques/nuance?
+Additionally, one must be familiar with the following classes:
 
-I have compiled a list and will go over these in detail in one of my videos!
-
-1. `String Builder Class`
-2. `Character Class`
-3. `String Class`
-4. `ASCII vs Unicode`
+1. `String Builder Class` (Java)
+2. `Character Class` (Java, JS)
+3. `String Class` (All)
+4. `ASCII vs Unicode`(All)
 
 ## Next Steps
 
