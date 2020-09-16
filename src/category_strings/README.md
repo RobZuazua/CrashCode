@@ -1,6 +1,6 @@
 # String Analysis from top 3 resources (CTCI, EPI, Leetcode)
 
-***Objective: Clearly identify the nuances and techniques with using Strings to solve interview questions***
+***Objective: Clearly identify the techniques to solve interview questions around String***
 
 - CTCI Q1: `boolean array`
 - CTCI Q2: `pre-sort string`, `int array`
