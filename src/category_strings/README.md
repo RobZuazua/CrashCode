@@ -41,15 +41,15 @@ From these resources, we can compose a list of all the core concepts and common 
 2. `Two Pointer`
 3. `Work Backwards`
 4. `Pre-fixing`
-  - `pre-sort`
-  - `pre-reverse`
-  - `doubling string`
-5. `Arrays`
+  - `pre-sorting`
+  - `pre-reversing`
+  - `pre-doubling`
+5. `Additional Storage`
   - `int array`
   - `bool array`
-6. `Bit Vector`
-7. `Sliding Window`
-8. `Linear Time String Matching`
+  - `Bit Vector`
+6. `Sliding Window`
+7. `Linear Time String Matching`
 
 Additionally, one must be familiar with the following classes:
 
