@@ -1,4 +1,4 @@
-### What is Crash Code: 
+### Q: What is Crash Code: 
 A training program for mastering the technical coding interview.
 
 ### Q: How do I use Crash Code?
