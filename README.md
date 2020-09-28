@@ -1,16 +1,13 @@
 ### What is Crash Code: 
 A training program for mastering the technical coding interview.
 
-### How People Use Crash Code:
+### Q: How do I use Crash Code?
+1. **Understand the value:** Every category of questions from Strings to Dynamic Programming has a set of underlying technical concepts - I clearly identify these.
+2. **Understand the training:** We intuitively learn these underyling technical concepts by using each one of them to solve a question without using a solution.
+3. **Understand the why:** Inutitive understanding of the underyling technical concepts is the most effective way to master the technical coding interview.
 
-1. **Setup:** This notebook contains the minimum  set of questions that test the vast majority of   technical concepts.
+### Q: What is Crash Code really about?
 
-2. **Action:** You solve every question without using a solution to build an intuitive understanding of underlying concepts.
+Understanding. Understanding. Understanding.
 
-3. **Result:** You mature your understanding of all required technical concepts.
-
-### What Crash Code is Really About:
-
-1. Understanding. Understanding. Understanding.
-
-2. Searching for the technical interviewing **truths** that result in crystal-clear clarity and improved performance.
+Searching for the technical interviewing truths that result in crystal-clear clarity and improved performance.
