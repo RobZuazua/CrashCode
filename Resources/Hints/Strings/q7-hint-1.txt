@@ -1,0 +1,3 @@
+Linear time string matching algorithms.
+
+Think rolling hashing.
