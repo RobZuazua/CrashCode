@@ -60,8 +60,8 @@ Additionally, one must be familiar with the following classes:
 
 ## Next Steps
 
-I have created and shared the minimum set of questions in this folder that capture all above techniques with strings! 
+1. I clearly identify the [underlying technical concepts](https://colab.research.google.com/drive/1slnnZJAtSyAqJbqF5IMBht8zNJxm8mN4#scrollTo=qTZX2XylbCAd) for each category of questions from Strings to Dynamic Programming.
 
-The questions are available in the three most popular programming languages for interviews: python, java, and javascript.
+2. I create the [minimum set of coding questions](https://colab.research.google.com/drive/1avGI8ITH8mXA3-PdlVaScNtf45mhVapy#scrollTo=QlJsQ5xpRHg5) to test the understanding of the underlying technical concepts.
 
-I have also shared a free online coding environment for you to test your changes! https://gitpod.io/#https://github.com/RobZuazua/CrashCode/tree/master/src
+3. **You can use the [minimum set of coding questions](https://colab.research.google.com/drive/1avGI8ITH8mXA3-PdlVaScNtf45mhVapy#scrollTo=QlJsQ5xpRHg5) to learn the [underlying technical concepts](https://colab.research.google.com/drive/1slnnZJAtSyAqJbqF5IMBht8zNJxm8mN4#scrollTo=qTZX2XylbCAd).**
