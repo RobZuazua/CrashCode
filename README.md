@@ -1,5 +1,5 @@
 ### Q: What is Crash Code: 
-The ultimate free training program for mastering the technical coding interview.
+A free training program for mastering the technical interview.
 
 ### Q: How do I use Crash Code?
 1. **Understand the value:** I clearly identify the [underlying technical concepts](https://colab.research.google.com/drive/1slnnZJAtSyAqJbqF5IMBht8zNJxm8mN4#scrollTo=qTZX2XylbCAd) for each category of questions from Strings to Dynamic Programming. 
