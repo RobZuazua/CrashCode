@@ -2,6 +2,8 @@
 
 ***Objective: Clearly identify the techniques to solve interview questions around Strings***
 
+Cracking the Coding Interview (CTCI)
+
 - CTCI Q1: `boolean array`
 - CTCI Q2: `pre-sort string`, `int array`
 - CTCI Q3: `working backwards`, `two scan`
@@ -9,6 +11,8 @@
 - CTCI Q5: `N/A`
 - CTCI Q6: `string builder`
 - CTCI Q7: `double the string`
+
+Elements of the Programming Interview (EPI)
 
 - EPI Q1: `string builder`
 - EPI Q2: `N/A`
@@ -22,6 +26,8 @@
 - EPI Q10: `N/A`
 - EPI Q11: `string builder`
 - EPI Q12: `linear time string matching`
+
+Leetcode 
 
 - Leetcode Q1: `N/A`
 - Leetcode Q2: `linear time string matching`
