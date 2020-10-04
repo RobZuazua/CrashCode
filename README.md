@@ -4,4 +4,4 @@
 
 2. I create the [minimum set of coding questions](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Python_Crash_Code.ipynb#scrollTo=QlJsQ5xpRHg5) to test the understanding of the underlying technical concepts.
 
-3. **You can use the [minimum set of coding questions](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Python_Crash_Code.ipynb#scrollTo=QlJsQ5xpRHg5) to learn the [underlying technical concepts](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Python_Crash_Code.ipynb#scrollTo=qTZX2XylbCAd).**
+3. **You can learn the [underlying technical concepts](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Python_Crash_Code.ipynb#scrollTo=qTZX2XylbCAd) most effectively by using the [minimum set of coding questions](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Python_Crash_Code.ipynb#scrollTo=QlJsQ5xpRHg5) to train.**
