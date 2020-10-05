@@ -10,3 +10,5 @@
 [Java](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Java_Crash_Code.ipynb) |
 [Python](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Python_Crash_Code.ipynb) |
 [JavaScript](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/JavaScript_Crash_Code.ipynb)
+
+[Youtube Channel Lessons](https://www.youtube.com/channel/UC4fdhO7egjaKfoJemwD2kIA)
