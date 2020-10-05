@@ -8,7 +8,7 @@
  
  ---
 
-- [Java Crash Code](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Java_Crash_Code.ipynb) |
-- [Python Crash Code](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Python_Crash_Code.ipynb) |
+- [Java Crash Code](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Java_Crash_Code.ipynb) 
+- [Python Crash Code](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Python_Crash_Code.ipynb) 
 - [JavaScript Crash Code](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/JavaScript_Crash_Code.ipynb)
 - [Youtube Video Explanations](https://www.youtube.com/channel/UC4fdhO7egjaKfoJemwD2kIA)
