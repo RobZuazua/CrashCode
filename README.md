@@ -7,8 +7,7 @@
 3. **You can learn the [underlying technical concepts](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Python_Crash_Code.ipynb#scrollTo=qTZX2XylbCAd) most effectively by using the [minimum set of coding questions](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Python_Crash_Code.ipynb#scrollTo=QlJsQ5xpRHg5) to train.**
  
 
-[Java](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Java_Crash_Code.ipynb) |
-[Python](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Python_Crash_Code.ipynb) |
-[JavaScript](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/JavaScript_Crash_Code.ipynb)
-
-[Youtube Channel Lessons](https://www.youtube.com/channel/UC4fdhO7egjaKfoJemwD2kIA)
+- [Java Crash Code](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Java_Crash_Code.ipynb) |
+- [Python Crash Code](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Python_Crash_Code.ipynb) |
+- [JavaScript Crash Code](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/JavaScript_Crash_Code.ipynb)
+- [Youtube Video Explanations](https://www.youtube.com/channel/UC4fdhO7egjaKfoJemwD2kIA)
