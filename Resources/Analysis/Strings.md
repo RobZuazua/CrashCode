@@ -66,11 +66,11 @@ Additionally, one must be familiar with the following classes:
 
 ## Next Steps
 
-1. I clearly identify the [underlying technical concepts](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Crash_Code_Main.ipynb#scrollTo=qTZX2XylbCAd) for each category of questions from Strings to Dynamic Programming.
+1. I clearly identify the [underlying technical concepts](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Crash_Code_Main.ipynb#scrollTo=qTZX2XylbCAd) for each category of questions from Strings to Graphs.
 
-2. I create the [minimum set of coding questions](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Crash_Code_Main.ipynb#scrollTo=QlJsQ5xpRHg5) to test the understanding of the underlying technical concepts.
+2. I create the [minimum set of coding questions](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Crash_Code_Main.ipynb#scrollTo=QlJsQ5xpRHg5) that cover all identified technical concepts.
 
-3. **You can learn the [underlying technical concepts](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Crash_Code_Main.ipynb#scrollTo=qTZX2XylbCAd) most effectively by using the [minimum set of coding questions](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Crash_Code_Main.ipynb#scrollTo=QlJsQ5xpRHg5) to train.**
+3. **You effectively master the [underlying technical concepts](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Crash_Code_Main.ipynb#scrollTo=qTZX2XylbCAd) by using this [minimum set of coding questions](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Crash_Code_Main.ipynb#scrollTo=QlJsQ5xpRHg5).**
  
  ---
  
