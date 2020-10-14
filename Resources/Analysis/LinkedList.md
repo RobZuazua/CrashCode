@@ -45,13 +45,12 @@ Leetcode
 
 From these resources, we can compose a list of all the core concepts and common nuance that one would need to understand in order to master questions around Linked Lists.
 
-1. `Implement Linked List API`
-2. `Runner`
-3. `Reuse List O(1) Space`
-4. `Recursive/Wrapper Class`
-5. `Cycles`
-6. `Intersections`
-7. `Node Logic`
+1. `Runner`
+2. `Reuse List O(1) Space`
+3. `Recursive/Wrapper Class`
+4. `Cycles`
+5. `Intersections`
+6. `Node Logic`
   - `Delection`
   - `Merging`
   - `Reversing`
