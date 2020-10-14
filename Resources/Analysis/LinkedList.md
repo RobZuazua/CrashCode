@@ -56,6 +56,9 @@ From these resources, we can compose a list of all the core concepts and common 
   - `Merging`
   - `Reversing`
   - `Rearranging`
+  
+  
+I did not include Stack and HashSet questions since they are not common and they will be covered in their respective sections!
 
 ## Next Steps
 
