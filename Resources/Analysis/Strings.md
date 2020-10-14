@@ -74,4 +74,8 @@ Additionally, one must be familiar with the following classes:
  
  ---
  
+- [Training Content](https://colab.research.google.com/github/RobZuazua/CrashCode/blob/master/Crash_Code_Main.ipynb)
+
 - [Youtube Video Explanations](https://www.youtube.com/channel/UC4fdhO7egjaKfoJemwD2kIA)
+
+- [Discord](https://discord.com/invite/e56GWrU): Office hours. Q&A. Mock Interviews. Fun.
