@@ -48,7 +48,7 @@ From these resources, we can compose a list of all the core concepts and common 
 1. `Implement Linked List API`
 2. `Runner`
 3. `Reuse List O(1) Space`
-4. `Recursive`
+4. `Recursive/Wrapper Class`
 5. `Cycles`
 6. `Intersections`
 7. `Node Logic`
