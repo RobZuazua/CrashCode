@@ -58,7 +58,7 @@ From these resources, we can compose a list of all the core concepts and common 
   - `Rearranging`
   
   
-I did not include Stack and HashSet questions since they are not common and they will be covered in their respective sections!
+I did not include Stack and HashSet questions in final list since they are not common and they will be covered in their respective sections!
 
 ## Next Steps
 
