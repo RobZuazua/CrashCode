@@ -9,3 +9,5 @@
  ---
  
 - [Youtube Video Explanations](https://www.youtube.com/channel/UC4fdhO7egjaKfoJemwD2kIA)
+
+- [Discord](https://discord.com/invite/e56GWrU): Office hours. Q&A. Mock Interviews. Fun.
